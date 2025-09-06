@@ -1,7 +1,3 @@
-Below is a README file for your `dash-budget` project, tailored based on the provided `package.json` file. It assumes the project is a budget dashboard built with React, Vite, and Tailwind CSS, using various modern libraries for UI components, form handling, and data visualization. The README is concise, professional, and suitable for a GitHub repository.
-
----
-
 # Dash Budget
 
 A modern, responsive budget dashboard application built with React and Vite. Dash Budget allows users to track their total budget, add expenses, maintain a ledger, and visualize financial data through interactive graphs.
@@ -105,9 +101,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -118,4 +111,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize this README further with additional details, such as specific setup instructions, screenshots, or deployment steps, if applicable. Let me know if you need help with any specific additions or modifications!
+# Output
+- This folder contains the output which is expected after the completion of the code.
